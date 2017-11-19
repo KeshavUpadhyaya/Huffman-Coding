@@ -1,0 +1,1 @@
+C is a procedural programming language.It was initially developed by Dennis Ritchie between 1969 and 1973. It was mainly developed as a system programming language to write operating system.
